@@ -10,5 +10,3 @@ plt.plot(xpoints, ypoints)
 
 # Display the pflot
 plt.show()
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
