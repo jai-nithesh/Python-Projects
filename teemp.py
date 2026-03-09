@@ -10,3 +10,4 @@ plt.plot(xpoints, ypoints)
 
 # Display the pflot
 plt.show()
+# check
